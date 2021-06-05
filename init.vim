@@ -29,4 +29,5 @@ Plug 'preservim/nerdtree'
 call plug#end()
 
 colorscheme gruvbox
+set background=dark
 map <silent> <C-n> :NERDTreeFocus<CR>
